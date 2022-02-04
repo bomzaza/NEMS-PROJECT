@@ -10,6 +10,6 @@
     if(!$conn){
             die("mysql connect erorr : ".mysqli_connect_error());
     }else{
-            //echo "success connect";
+            //echo "success connectasdasdasdasdsad";
     }
 ?>
